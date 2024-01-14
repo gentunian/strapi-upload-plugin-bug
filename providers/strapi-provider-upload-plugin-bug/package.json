@@ -1,0 +1,6 @@
+{
+    "name": "strapi-provider-upload-plugin-bug",
+    "version": "1.0.0",
+    "description": "reproduction repo",
+    "main": "./index.js"
+  }
